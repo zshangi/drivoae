@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #1cb0cd;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #1cb0cd;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        filter: url(#Rectangle_1);
+      }
+    </style>
+    <filter id="Rectangle_1" x="0" y="0" width="88" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Tyre" transform="translate(5 5)">
+    <g class="cls-6" transform="matrix(1, 0, 0, 1, -5, -5)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" class="cls-1" width="70" height="70" rx="5" transform="translate(5 5)"/>
+    </g>
+    <g id="Group_21" data-name="Group 21" transform="translate(-60 -190)">
+      <path id="Exclusion_1" data-name="Exclusion 1" class="cls-2" d="M23.5,47A23.5,23.5,0,1,1,47,23.5,23.527,23.527,0,0,1,23.5,47Zm0-39.951A16.451,16.451,0,1,0,39.951,23.5,16.469,16.469,0,0,0,23.5,7.049Z" transform="translate(72 202)"/>
+      <g id="Group_1" data-name="Group 1" transform="translate(82.263 212.398)">
+        <g id="Ellipse_3" data-name="Ellipse 3" class="cls-3" transform="translate(-0.263 -0.398)">
+          <circle class="cls-4" cx="13.5" cy="13.5" r="13.5"/>
+          <circle class="cls-5" cx="13.5" cy="13.5" r="12.5"/>
+        </g>
+        <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="4.5" cy="4.5" r="4.5" transform="translate(8.737 8.602)"/>
+        <line id="Line_4" data-name="Line 4" class="cls-3" x1="0.035" y2="24.459" transform="translate(23.934 7.164) rotate(60)"/>
+        <line id="Line_5" data-name="Line 5" class="cls-3" x1="0.035" y1="24.458" transform="translate(23.951 19.394) rotate(120)"/>
+        <line id="Line_6" data-name="Line 6" class="cls-3" y2="25.508" transform="translate(13.352 0.54)"/>
+      </g>
+    </g>
+  </g>
+</svg>

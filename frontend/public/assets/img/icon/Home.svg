@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Home" transform="translate(-18 -858)">
+    <g id="Ellipse_27" data-name="Ellipse 27" class="cls-1" transform="translate(18 858)">
+      <circle class="cls-3" cx="17" cy="17" r="17"/>
+      <circle class="cls-4" cx="17" cy="17" r="15.5"/>
+    </g>
+    <g id="home-2" data-name="home" transform="translate(26.009 866.002)">
+      <path id="Path_42" data-name="Path 42" class="cls-2" d="M17.639,9.771a1.125,1.125,0,0,1-.825.342A1.111,1.111,0,0,1,16,9.78l-.263-.263v7.358a1.1,1.1,0,0,1-.325.79,1.072,1.072,0,0,1-.8.334H11.239V12.94a.57.57,0,0,0-.562-.562H7.305a.57.57,0,0,0-.562.562V18H3.372a1.072,1.072,0,0,1-.8-.334,1.1,1.1,0,0,1-.325-.79V9.516l-.263.263a1.111,1.111,0,0,1-.817.334,1.125,1.125,0,0,1-.825-.342A1.125,1.125,0,0,1,0,8.946a1.111,1.111,0,0,1,.334-.817l7.8-7.8A1.112,1.112,0,0,1,8.991,0a1.112,1.112,0,0,1,.86.334l7.8,7.8a1.111,1.111,0,0,1,.334.817A1.125,1.125,0,0,1,17.639,9.771Z" transform="translate(0)"/>
+    </g>
+  </g>
+</svg>

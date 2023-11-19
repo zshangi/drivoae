@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.997;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_13" data-name="Group 13" class="cls-1" transform="translate(0.333 0.333)">
+    <g id="info-circle" transform="translate(13.543 7.62)">
+      <g id="Group_10" data-name="Group 10" transform="translate(0)">
+        <path id="Path_14" data-name="Path 14" class="cls-2" d="M24.561,16.932l-4.77.6-.171.791.937.173c.612.146.733.367.6.977l-1.537,7.223c-.4,1.868.219,2.747,1.683,2.747A4.313,4.313,0,0,0,24.355,28.2l.183-.866a2.308,2.308,0,0,1-1.429.512c-.573,0-.781-.4-.633-1.11Zm.146-4.349A2.083,2.083,0,1,1,22.624,10.5,2.083,2.083,0,0,1,24.707,12.583Z" transform="translate(-19.5 -10.5)"/>
+      </g>
+    </g>
+    <g id="Ellipse_27" data-name="Ellipse 27" class="cls-3" transform="translate(-0.333 -0.333)">
+      <circle class="cls-4" cx="17" cy="17" r="17"/>
+      <circle class="cls-5" cx="17" cy="17" r="15.5"/>
+    </g>
+  </g>
+</svg>

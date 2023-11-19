@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Select_Address" data-name="Select Address" transform="translate(-85 -550)">
+    <g id="location-pin" transform="translate(93.198 561.327)">
+      <path id="Path_47" data-name="Path 47" d="M22.27,11.962a4.465,4.465,0,1,0,4.465,4.465,4.465,4.465,0,0,0-4.465-4.465Zm0,6.7A2.232,2.232,0,1,1,24.5,16.427a2.232,2.232,0,0,1-2.232,2.232Z" transform="translate(-5.468 -5.104)"/>
+      <path id="Path_48" data-name="Path 48" d="M23.38,4.373A9.3,9.3,0,0,0,9.009,16.027l6.466,9.927a1.584,1.584,0,0,0,2.655,0L24.6,16.027A9.3,9.3,0,0,0,23.38,4.373Zm-.217,10.72L16.8,24.856l-6.36-9.763a7.59,7.59,0,1,1,12.72,0Z"/>
+    </g>
+    <g id="Ellipse_39" data-name="Ellipse 39" class="cls-1" transform="translate(85 550)">
+      <circle class="cls-2" cx="25" cy="25" r="25"/>
+      <circle class="cls-3" cx="25" cy="25" r="24"/>
+    </g>
+  </g>
+</svg>

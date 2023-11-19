@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #1cb0cd;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #1cb0cd;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Car" transform="translate(-155 -180)">
+    <g id="Ellipse_31" data-name="Ellipse 31" class="cls-1" transform="translate(155 180)">
+      <circle class="cls-4" cx="60" cy="60" r="60"/>
+      <circle class="cls-5" cx="60" cy="60" r="58.5"/>
+    </g>
+    <circle id="Ellipse_30" data-name="Ellipse 30" class="cls-2" cx="50" cy="50" r="50" transform="translate(165 190)"/>
+    <path id="Path_31" data-name="Path 31" class="cls-3" d="M66.511,28.289c-1.064-1.412-5.015-2.384-6.686-4.925s-3.04-8.043-7.294-10.157S40.145,10.5,35.5,10.5s-12.769.58-17.029,2.7-5.623,7.621-7.294,10.157-5.623,3.517-6.686,4.929S2.681,38.626,3.136,43a36.717,36.717,0,0,0,1.306,6.965H16.921c2.043,0,2.708-.768,6.886-1.161,4.585-.435,9.083-.58,11.695-.58s7.255.145,11.837.58c4.179.4,4.865,1.161,6.886,1.161H66.559A36.717,36.717,0,0,0,67.864,43c.456-4.376-.3-13.3-1.354-14.713Z" transform="translate(180 208.5)"/>
+  </g>
+</svg>

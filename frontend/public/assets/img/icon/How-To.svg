@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.997;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="How-to" transform="translate(-378 -780)">
+    <g id="Group_13" data-name="Group 13" class="cls-1" transform="translate(378.333 780.333)">
+      <g id="Ellipse_27" data-name="Ellipse 27" class="cls-2" transform="translate(-0.333 -0.333)">
+        <circle class="cls-4" cx="17" cy="17" r="17"/>
+        <circle class="cls-5" cx="17" cy="17" r="15.5"/>
+      </g>
+    </g>
+    <g id="question" transform="translate(342.031 756.423)">
+      <g id="Group_46" data-name="Group 46" transform="translate(47.293 31.5)">
+        <g id="Group_45" data-name="Group 45">
+          <path id="Path_66" data-name="Path 66" class="cls-3" d="M47.294,36.285a.5.5,0,0,0,.5.517h1.727a.582.582,0,0,0,.557-.523,2.615,2.615,0,0,1,2.809-2.374c1.436,0,2.751.718,2.751,2.445,0,1.329-.783,1.94-2.02,2.87-1.409,1.024-2.524,2.219-2.445,4.159l.006.454a.523.523,0,0,0,.523.515h1.7a.523.523,0,0,0,.523-.523v-.22c0-1.5.571-1.94,2.114-3.111,1.275-.969,2.6-2.045,2.6-4.3,0-3.163-2.671-4.691-5.6-4.691-2.652,0-5.558,1.235-5.756,4.785Zm3.259,12.063a2.14,2.14,0,1,0,2.112-1.968A1.971,1.971,0,0,0,50.553,48.349Z" transform="translate(-47.293 -31.5)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

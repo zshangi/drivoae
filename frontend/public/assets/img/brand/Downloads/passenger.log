@@ -1,0 +1,8 @@
+App 2731429 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 2731429 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 2731429 output: Not Found: /products
+App 2731429 output: [ pid=2731429, time=2023-03-30 08:38:21,377 ]: Not Found: /products
+App 2743404 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 2743404 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 2827065 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 2827065 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno

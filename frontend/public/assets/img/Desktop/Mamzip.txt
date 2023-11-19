@@ -1,0 +1,55 @@
+Name: Mamzip
+IP: 185.173.104.142
+Mamzip@vip3
+ git clone https://github.com/zshangi/MamzipSite.git
+pnuzMKVJ2656
+ALLOWED_HOSTS=['185.173.104.142','localhost']
+
+easyprecon
+*R(@9OjIsBhOwfVTN7Itt!zb
+0.0.0.0:8000
+
+ghiassic
+
+04+M-TsAqfJ79m
+
+
+
+
+abbasi
+dradmin
+7w6L5$9MLjOqv6BZBu
+I*CFOdr^iGAhv6jZ
+
+heidar computer
+zohreh
+shangicvbnm12345
+
+Payam@zxcvb
+
+
+https://ghiassicarpet.com/wp-admin/customize.php?return=https%3A%2F%2Fghiassicarpet.com%2F%3F%26pagelayer-live%3D1&autofocus%5Bpanel%5D=pagelayer_settings
+
+drivodev
+info
+]*C(#zE{}SH3
+
+https://www.youtube.com/watch?v=c3WSziz_u_o
+
+Super User Drivo
+drivodev
+Drivodev@123
+
+
+UPDATE `base_product` t1, `base_tyre` t2 SET t1.tyre_id = t2._id WHERE t1.name = t2.name;
+
+UPDATE `base_vehicletyre` t1, `base_modification` t2 SET t1.modification_id = t2._id  WHERE  t1.trim = t2.trim and t1.model_id = t2.model_id ;
+
+UPDATE `base_vehicletyre` t1, `base_tyre` t2 SET t1.tyre_id = t2._id  WHERE  t1.tyreName = t2.name 
+
+
+INSERT INTO `base_TyreProduct` (name,brandorigin_id, tyre_id,)  
+SELECT name, brandorigin, tyre_id  FROM `WITMAST`
+ WHERE (`brandorigin_id` is NOT null) & (`tyre_id` is NOT null)
+
+UPDATE `base_tyreproduct` t1, `WITMAST` t2 SET t1.load_index = t2.LOADINDEXNAME WHERE  t1.ItCode = t2.ITCODE  

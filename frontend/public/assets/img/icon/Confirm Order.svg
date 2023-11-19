@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.996;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        opacity: 0.996;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Confirm_Order" data-name="Confirm Order" transform="translate(-270 -665)">
+    <g id="Group_43" data-name="Group 43" class="cls-1" transform="translate(-65 7.999)">
+      <g id="cart-outline" transform="translate(341.256 662.5)">
+        <ellipse id="Ellipse_33" data-name="Ellipse 33" class="cls-2" cx="0.974" cy="1.136" rx="0.974" ry="1.136" transform="translate(12.318 30.228)"/>
+        <ellipse id="Ellipse_34" data-name="Ellipse 34" class="cls-2" cx="0.974" cy="1.136" rx="0.974" ry="1.136" transform="translate(23.954 30.228)"/>
+        <path id="Path_55" data-name="Path 55" class="cls-2" d="M4.5,7.5H8.4l2.922,19.319H26.9" transform="translate(0 0)"/>
+        <path id="Path_56" data-name="Path 56" class="cls-2" d="M13.948,23.364H29.133a.513.513,0,0,0,.478-.457L31.364,12.68a.64.64,0,0,0-.1-.472A.463.463,0,0,0,30.886,12H12" transform="translate(-2.63 -1.091)"/>
+      </g>
+      <path id="Path_57" data-name="Path 57" class="cls-2" d="M353.986,662.831,358,666.042l5.327-5.955" transform="translate(2 16)"/>
+    </g>
+    <g id="Ellipse_43" data-name="Ellipse 43" class="cls-3" transform="translate(270 665)">
+      <circle class="cls-4" cx="25" cy="25" r="25"/>
+      <circle class="cls-5" cx="25" cy="25" r="24"/>
+    </g>
+  </g>
+</svg>

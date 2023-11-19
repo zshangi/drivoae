@@ -1,0 +1,8 @@
+
+User-agent: *
+Disallow: /path-to-private-page/
+Disallow: /another-private-page/
+# Add more disallowed paths if needed
+
+Sitemap: https://drivo.ae.com/sitemap.xml
+# Replace with the URL of your sitemap

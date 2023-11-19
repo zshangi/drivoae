@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="34" viewBox="0 0 33 34">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_12" data-name="Group 12" transform="translate(0 0.333)">
+    <g id="Ellipse_29" data-name="Ellipse 29" class="cls-1" transform="translate(0 -0.333)">
+      <ellipse class="cls-3" cx="16.5" cy="17" rx="16.5" ry="17"/>
+      <ellipse class="cls-4" cx="16.5" cy="17" rx="15" ry="15.5"/>
+    </g>
+    <g id="cart" transform="translate(6 9.367)">
+      <circle id="Ellipse_16" data-name="Ellipse 16" class="cls-2" cx="1.724" cy="1.724" r="1.724" transform="translate(4.869 14.047)"/>
+      <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-2" cx="1.724" cy="1.724" r="1.724" transform="translate(13.368 14.047)"/>
+      <path id="Path_30" data-name="Path 30" class="cls-2" d="M20.771,8.467A.987.987,0,0,0,20,8.086H7.263L7.006,6.574A.677.677,0,0,0,6.347,6H3.669a.7.7,0,0,0,0,1.391H5.785L7.7,18.636a.677.677,0,0,0,.659.574h10.71a.7.7,0,0,0,0-1.391H8.916L8.68,16.429H18.79a1.017,1.017,0,0,0,.986-.838l1.2-6.257a1.073,1.073,0,0,0-.209-.866Z" transform="translate(-3 -6)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #1cb0cd;
+      }
+
+      .cls-3 {
+        filter: url(#Rectangle_13);
+      }
+    </style>
+    <filter id="Rectangle_13" x="0" y="0" width="88" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Battery" transform="translate(5 5)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -5, -5)">
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" class="cls-1" width="70" height="70" rx="5" transform="translate(5 5)"/>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(-135 -330)">
+      <path id="Subtraction_6" data-name="Subtraction 6" class="cls-2" d="M118,98H75a2,2,0,0,1-2-2V67a2,2,0,0,1,2-2h43a2,2,0,0,1,2,2V96A2,2,0,0,1,118,98ZM103,79.167a1,1,0,0,0-1,1v2.667a1,1,0,0,0,1,1h3.667V87.5a1,1,0,0,0,1,1h2.667a1,1,0,0,0,1-1V83.833H115a1,1,0,0,0,1-1V80.167a1,1,0,0,0-1-1h-3.667V75.5a1,1,0,0,0-1-1h-2.667a1,1,0,0,0-1,1v3.667Zm-24.3-.024a1,1,0,0,0-1,1v2.714a1,1,0,0,0,1,1H90.8a1,1,0,0,0,1-1V80.143a1,1,0,0,0-1-1ZM114,62H102a1,1,0,0,1-1-1V54a1,1,0,0,1,1-1h12a1,1,0,0,1,1,1v7A1,1,0,0,1,114,62ZM91,62H79a1,1,0,0,1-1-1V54a1,1,0,0,1,1-1H91a1,1,0,0,1,1,1v7A1,1,0,0,1,91,62Z" transform="translate(74 291)"/>
+    </g>
+  </g>
+</svg>

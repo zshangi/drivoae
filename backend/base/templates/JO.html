@@ -1,0 +1,103 @@
+
+<html>
+<head>
+    <title>Job Order Email</title>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #1CB0CD;
+            color: #27261F;
+            margin: 0;
+            padding: 0;
+        }
+        #printableArea {
+            background-color: #FFFFFF;
+            margin: 2% 10%;
+            padding: 2% 5%;
+            border-radius: 15px;
+            box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid black;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #1CB0CD;
+            color: white;
+        }
+        button {
+            background-color: #FFFF24;
+            color: black;
+            padding: 15px;
+            margin: 10px;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #1CB0CD;
+            color: white;
+        }
+    </style>
+    <script>
+        function printPDF() {
+            window.print();
+        }
+    </script>
+</head>
+<body>
+    <div id="printableArea">
+        <img src="https://drivo.ae/assets/img/icon-10.png" alt="Drivo Logo" style="display: block; margin: 2% auto; max-width: 150px;">
+        <h1>Drivo.ae Job Order Email</h1>
+        <p>Dear {{order.servicecenter.user.last_name}},</p>
+        <p>Thank you for accepting Drivo.ae Work Order# {{orderid}} The details follow,</p>
+
+        <!-- Item Details -->
+        <table>
+            <tr>
+                <th>ITEM</th>
+                <th>SKU</th>
+                <th>QTY</th>
+            </tr> {% for order in iteminfo %} <tr>
+                <td>{{ order.tyreproduct.brandorigin.brand.title }}{{ order.tyreproduct.productionYear}},{{ order.tyreproduct.brandpattern.pattern}},{{ order.tyreproduct.tyre.name}}</td>
+                <td>{{ order.tyreproduct.ItCode }}</td>
+                <td>{{order.qty}}</td>
+            </tr>{% endfor %}
+        </table>
+
+        <!-- Bill To, Ship To, and Time -->
+        <table>
+            <tr>
+                <th>BILL TO</th>
+                <th>SHIP TO: INSTALLER</th>
+                <th>APPOINTMENT TIME</th>
+            </tr>
+            <tr>
+                <td>{{ order.user.first_name }} {{ order.user.last_name }} | Phone: {{ order.user.username }} </td>
+                <td>{{order.servicecenter.name}}</td>
+                <td>{{order.timeservice}} {{order.timetable.datetable}}</td>
+            </tr>
+        </table>
+
+        <p>Please note the following,</p>
+        <ul>
+            <li>You are within your rights to decline receipt if the tires being delivered by the courier do not match the exact same specifications and DOT as mentioned here.</li>
+            <li>The client has made payment to Drivo.ae exclusively for new tires, fitting, balancing, and old tire disposal. You are authorized to bill the customer for any additional services rendered by you.</li>
+            <li>This job order will be deemed as unfinished unless the client signs it and a scanned copy is emailed back to your contact at Drivo.ae.</li>
+        </ul>
+        
+        <p>Job Complete (Y/N):</p>
+        <p>Remarks (if any):</p>
+        <p>Date & Time:</p>
+        <p>Customer Signature:</p>
+        
+        <button onclick="printPDF()">Print to PDF</button>
+    </div>
+</body>
+</html>
+
